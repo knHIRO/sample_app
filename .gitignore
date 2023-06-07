@@ -29,3 +29,4 @@
 /public/assets
 .byebug_history
 node_modules
+/.env
